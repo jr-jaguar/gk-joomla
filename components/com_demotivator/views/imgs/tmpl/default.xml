@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_DEMOTIVATOR_IMGS_VIEW_DEFAULT_TITLE" option="View">
+	</layout>
+    <fields name="params">
+        <fieldset name="params" addfieldpath="/administrator/components/com_demotivator/models/fields"> 
+          <field name="settype" type="type"
+            label="COM_DEMOTIVATOR_FORM_TYPE" onchange=""
+            description="COM_DEMOTIVATOR_FORM_DESC_TYPE" /> 
+        </fieldset>
+    </fields> 
+</metadata>
