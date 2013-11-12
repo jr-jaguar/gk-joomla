@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5.0" method="upgrade">
+    <name>mod_title</name>
+    <creationDate>10/11/2013</creationDate>
+    <author>JaguaR</author>
+    <license>GNU/GPL</license>
+    <version>0.0.1</version>
+    <description>Show title</description>
+    <files>
+        <filename module="mod_title">mod_title.php</filename>
+        <filename>mod_title.xml</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <folder>tmpl</folder>
+    </files>
+
+    <config>
+			<fields name="params">
+				<!-- Основные параметры для модуля -->
+				<fieldset name="basic">
+					<field name="text" type="text"
+						label="MOD_TITLE_TEXT_FIELD_LABEL"
+						description="MOD_TITLE_TEXT_FIELD_DESC" />
+				</fieldset>
+				<!-- Дополнительные параметры для модуля -->
+				<fieldset name="advanced">
+					<field name="layout" type="modulelayout"
+						label="JFIELD_ALT_LAYOUT_LABEL"
+						description="JFIELD_ALT_MODULE_LAYOUT_DESC" />				
+				</fieldset>
+			</fields>
+		</config>
+
+</extension>

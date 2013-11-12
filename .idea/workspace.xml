@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6700508c-43e4-4006-b4ff-34db0ed30443" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/com_demotivator/180.jpg" afterPath="$PROJECT_DIR$/images/com_demotivator/180.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/STR28.jpg" afterPath="$PROJECT_DIR$/images/STR28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/STR30.jpg" afterPath="$PROJECT_DIR$/images/STR30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/STR34.jpg" afterPath="$PROJECT_DIR$/images/STR34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/STR36.jpg" afterPath="$PROJECT_DIR$/images/STR36.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/media/ajax-loader.gif" afterPath="$PROJECT_DIR$/modules/mod_slogin/media/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/border-anim-h.gif" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/border-anim-h.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/border-anim-v.gif" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/border-anim-v.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/border-h.gif" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/border-h.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/border-v.gif" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/border-v.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/fonts/font.ttf" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/fonts/font.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_slogin/icon_16x16.png" afterPath="$PROJECT_DIR$/media/com_slogin/icon_16x16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/com_slogin/icon_48x48.png" afterPath="$PROJECT_DIR$/media/com_slogin/icon_48x48.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/images/l_com_demotivator.png" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/images/l_com_demotivator.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/images/l_imgs.png" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/images/l_imgs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/images/s_com_demotivator.png" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/images/s_com_demotivator.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/images/s_imgs.png" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/images/s_imgs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/plg_jcomments_slogin/images/socials_sprite.png" afterPath="$PROJECT_DIR$/media/plg_jcomments_slogin/images/socials_sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/media/socials_sprite.png" afterPath="$PROJECT_DIR$/modules/mod_slogin/media/socials_sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/img/uploadify-cancel.png" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/img/uploadify-cancel.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/uploadify/uploadify.swf" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/uploadify/uploadify.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/yandex/assets/yandex.png" afterPath="$PROJECT_DIR$/plugins/slogin_auth/yandex/assets/yandex.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/updates/mysql/1.0.sql" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/updates/mysql/1.0.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/access.xml" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/access.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/access.xml" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/access.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/assets/oauth/auth.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/assets/oauth/auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/models/fields/callbackurl.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/models/fields/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/facebook/element/callbackurl.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/facebook/element/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/google/element/callbackurl.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/google/element/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/element/callbackurl.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/element/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/live/element/callbackurl.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/live/element/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/mail/element/callbackurl.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/mail/element/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/element/callbackurl.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/element/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/twitter/element/callbackurl.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/twitter/element/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/element/callbackurl.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/element/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/element/callbackurl.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/element/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/yandex/element/callbackurl.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/yandex/element/callbackurl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/tmpl/compact.php" afterPath="$PROJECT_DIR$/modules/mod_slogin/tmpl/compact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/models/comparison_user.php" afterPath="$PROJECT_DIR$/components/com_slogin/models/comparison_user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/assets/oauth/composer.json" afterPath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/assets/oauth/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/config.xml" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/config.xml" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configuration.php" afterPath="$PROJECT_DIR$/configuration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/controller.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/controller.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/controller.php" afterPath="$PROJECT_DIR$/components/com_demotivator/controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/controller.php" afterPath="$PROJECT_DIR$/components/com_slogin/controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/createdby.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/createdby.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/models/fields/createdby.php" afterPath="$PROJECT_DIR$/components/com_demotivator/models/fields/createdby.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/custom_field.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/custom_field.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/views/imgs/tmpl/default.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/views/imgs/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/settings/tmpl/default.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/settings/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/default.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/img/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_demotivator/views/img/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/imgs/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_demotivator/views/imgs/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/newimg/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_demotivator/views/newimg/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/comparison_user/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_slogin/views/comparison_user/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/fusion/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_slogin/views/fusion/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/linking_user/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_slogin/views/linking_user/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/mail/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_slogin/views/mail/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/redirect/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_slogin/views/redirect/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/tmpl/default.php" afterPath="$PROJECT_DIR$/modules/mod_slogin/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jcomments/slogin/tmpl/default.php" afterPath="$PROJECT_DIR$/plugins/jcomments/slogin/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/imgs/tmpl/default.xml" afterPath="$PROJECT_DIR$/components/com_demotivator/views/imgs/tmpl/default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/newimg/tmpl/default.xml" afterPath="$PROJECT_DIR$/components/com_demotivator/views/newimg/tmpl/default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/default_body.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/default_body.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/default_filter.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/default_filter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/default_foot.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/default_foot.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/default_head.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/default_head.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/assets/oauth/demo.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/assets/oauth/demo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/css/demotivator.css" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/css/demotivator.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/demotivator.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/demotivator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/helpers/demotivator.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/helpers/demotivator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/demotivator.php" afterPath="$PROJECT_DIR$/components/com_demotivator/demotivator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/helpers/demotivator.php" afterPath="$PROJECT_DIR$/components/com_demotivator/helpers/demotivator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/demotivator.xml" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/demotivator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/lib/easyphpthumbnail.php" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/lib/easyphpthumbnail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/views/img/tmpl/edit.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/views/img/tmpl/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_demotivator.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_demotivator.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_demotivator.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_demotivator.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_demotivator.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_demotivator.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_slogin.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_slogin.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_slogin.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_slogin.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_slogin.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_slogin.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_slogin.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_slogin.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_slogin.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_slogin.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_jcomments_slogin.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_jcomments_slogin.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_jcomments_slogin.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_jcomments_slogin.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_slogin_integration_profile.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_slogin_integration_profile.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_slogin_integration_profile.sys.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_slogin_integration_profile.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/error.php" afterPath="$PROJECT_DIR$/logs/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/facebook/facebook.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/facebook/facebook.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/facebook/facebook.xml" afterPath="$PROJECT_DIR$/plugins/slogin_auth/facebook/facebook.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/models/fusion.php" afterPath="$PROJECT_DIR$/components/com_slogin/models/fusion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/lib/geo.php" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/lib/geo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/google/google.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/google/google.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/google/google.xml" afterPath="$PROJECT_DIR$/plugins/slogin_auth/google/google.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/helper.php" afterPath="$PROJECT_DIR$/modules/mod_slogin/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/helper.php" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/controllers/img.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/controllers/img.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/img.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/img.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/tables/img.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/tables/img.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/controllers/img.php" afterPath="$PROJECT_DIR$/components/com_demotivator/controllers/img.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/models/img.php" afterPath="$PROJECT_DIR$/components/com_demotivator/models/img.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/forms/img.xml" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/forms/img.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/models/forms/img.xml" afterPath="$PROJECT_DIR$/components/com_demotivator/models/forms/img.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/imgareaselect-animated.css" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/imgareaselect-animated.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/imgareaselect-default.css" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/imgareaselect-default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/imgareaselect-deprecated.css" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/imgareaselect-deprecated.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/controllers/imgs.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/controllers/imgs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/imgs.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/imgs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/controllers/imgs.php" afterPath="$PROJECT_DIR$/components/com_demotivator/controllers/imgs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/models/imgs.php" afterPath="$PROJECT_DIR$/components/com_demotivator/models/imgs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/css/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/css/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/images/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/assets/images/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/controllers/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/controllers/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/helpers/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/helpers/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/forms/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/forms/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/sql/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/sql/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/tables/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/tables/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/views/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/views/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/views/img/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/views/img/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/views/img/tmpl/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/views/img/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/views/imgs/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/views/imgs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/views/imgs/tmpl/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/views/imgs/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/helpers/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/helpers/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/helpers/html/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/helpers/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/models/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/models/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/models/fields/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/models/fields/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/sql/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/sql/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/settings/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/settings/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/settings/tmpl/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/settings/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/index.html" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/css/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/css/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/fonts/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/fonts/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/img/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/img/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/css/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/uploadify/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/uploadify/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/controllers/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/controllers/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/helpers/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/helpers/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/models/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/models/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/models/fields/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/models/fields/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/models/forms/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/models/forms/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/views/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/img/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/views/img/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/img/tmpl/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/views/img/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/imgs/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/views/imgs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/imgs/tmpl/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/views/imgs/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/newimg/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/views/newimg/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/newimg/tmpl/index.html" afterPath="$PROJECT_DIR$/components/com_demotivator/views/newimg/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/models/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/models/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/models/forms/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/models/forms/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/tables/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/tables/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/comparison_user/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/comparison_user/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/comparison_user/tmpl/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/comparison_user/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/fusion/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/fusion/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/fusion/tmpl/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/fusion/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/linking_user/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/linking_user/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/linking_user/tmpl/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/linking_user/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/mail/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/mail/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/mail/tmpl/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/mail/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/redirect/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/redirect/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/redirect/tmpl/index.html" afterPath="$PROJECT_DIR$/components/com_slogin/views/redirect/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/com_demotivator/index.html" afterPath="$PROJECT_DIR$/images/com_demotivator/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/plg_jcomments_slogin/index.html" afterPath="$PROJECT_DIR$/media/plg_jcomments_slogin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/plg_jcomments_slogin/css/index.html" afterPath="$PROJECT_DIR$/media/plg_jcomments_slogin/css/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/plg_jcomments_slogin/images/index.html" afterPath="$PROJECT_DIR$/media/plg_jcomments_slogin/images/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/plg_jcomments_slogin/js/index.html" afterPath="$PROJECT_DIR$/media/plg_jcomments_slogin/js/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/index.html" afterPath="$PROJECT_DIR$/modules/mod_slogin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/tmpl/index.html" afterPath="$PROJECT_DIR$/modules/mod_slogin/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jcomments/slogin/tmpl/index.html" afterPath="$PROJECT_DIR$/plugins/jcomments/slogin/tmpl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/facebook/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/facebook/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/facebook/assets/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/facebook/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/facebook/element/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/facebook/element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/google/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/google/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/google/assets/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/google/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/google/element/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/google/element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/assets/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/element/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/live/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/live/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/live/assets/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/live/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/live/element/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/live/element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/mail/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/mail/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/mail/assets/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/mail/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/mail/element/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/mail/element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/assets/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/element/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/twitter/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/twitter/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/twitter/assets/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/twitter/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/twitter/assets/twitteroauth/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/twitter/assets/twitteroauth/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/twitter/element/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/twitter/element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/assets/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/element/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/assets/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/element/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/yandex/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/yandex/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/yandex/assets/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/yandex/assets/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/yandex/element/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_auth/yandex/element/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/updates/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/updates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/updates/mysql/index.html" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/updates/mysql/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/user/slogin/index.html" afterPath="$PROJECT_DIR$/plugins/user/slogin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/install.demotivator.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/install.demotivator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/sql/install.mysql.utf8.sql" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/sql/install.mysql.utf8.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/sql/install.mysql.utf8.sql" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/sql/install.mysql.utf8.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/install.mysql.utf8.sql" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/install.mysql.utf8.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jomlabd_dump.sql" afterPath="$PROJECT_DIR$/jomlabd_dump.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/jquery.imgareaselect.min.js" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/jquery.imgareaselect.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/jquery.imgareaselect.pack.js" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/imgareaselect/jquery.imgareaselect.pack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/uploadify/jquery.uploadify-3.1.min.js" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/uploadify/jquery.uploadify-3.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/uploadify/jquery.uploadify.js" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/uploadify/jquery.uploadify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/linkedin.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/linkedin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/assets/oauth/linkedin.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/assets/oauth/linkedin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/linkedin.xml" afterPath="$PROJECT_DIR$/plugins/slogin_auth/linkedin/linkedin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/linking_user/tmpl/linking.css" afterPath="$PROJECT_DIR$/components/com_slogin/views/linking_user/tmpl/linking.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/models/linking_user.php" afterPath="$PROJECT_DIR$/components/com_slogin/models/linking_user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/live/live.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/live/live.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/live/live.xml" afterPath="$PROJECT_DIR$/plugins/slogin_auth/live/live.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/models/forms/login.xml" afterPath="$PROJECT_DIR$/components/com_slogin/models/forms/login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/mail/mail.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/mail/mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/mail/mail.xml" afterPath="$PROJECT_DIR$/plugins/slogin_auth/mail/mail.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/js/main.js" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/metadata.xml" afterPath="$PROJECT_DIR$/components/com_slogin/metadata.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/mod_slogin.php" afterPath="$PROJECT_DIR$/modules/mod_slogin/mod_slogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/mod_slogin.xml" afterPath="$PROJECT_DIR$/modules/mod_slogin/mod_slogin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/odnoklassniki.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/odnoklassniki.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/odnoklassniki.xml" afterPath="$PROJECT_DIR$/plugins/slogin_auth/odnoklassniki/odnoklassniki.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/manifests/packages/pkg_slogin.xml" afterPath="$PROJECT_DIR$/administrator/manifests/packages/pkg_slogin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/profile.php" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/profile.xml" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/profile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/lib/profiles.php" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/lib/profiles.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/router.php" afterPath="$PROJECT_DIR$/components/com_demotivator/router.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/router.php" afterPath="$PROJECT_DIR$/components/com_slogin/router.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/script.php" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/script.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/models/settings.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/models/settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/plg_jcomments_slogin/css/slogin.css" afterPath="$PROJECT_DIR$/media/plg_jcomments_slogin/css/slogin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/tmpl/compact/slogin.css" afterPath="$PROJECT_DIR$/modules/mod_slogin/tmpl/compact/slogin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/tmpl/default/slogin.css" afterPath="$PROJECT_DIR$/modules/mod_slogin/tmpl/default/slogin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/plg_jcomments_slogin/js/slogin.js" afterPath="$PROJECT_DIR$/media/plg_jcomments_slogin/js/slogin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/mod_slogin/media/slogin.js" afterPath="$PROJECT_DIR$/modules/mod_slogin/media/slogin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/slogin.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/slogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/helpers/slogin.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/helpers/slogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/helpers/html/slogin.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/helpers/html/slogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/slogin.php" afterPath="$PROJECT_DIR$/components/com_slogin/slogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jcomments/slogin/slogin.php" afterPath="$PROJECT_DIR$/plugins/jcomments/slogin/slogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/user/slogin/slogin.php" afterPath="$PROJECT_DIR$/plugins/user/slogin/slogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/slogin.xml" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/slogin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jcomments/slogin/slogin.xml" afterPath="$PROJECT_DIR$/plugins/jcomments/slogin/slogin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/user/slogin/slogin.xml" afterPath="$PROJECT_DIR$/plugins/user/slogin/slogin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/slogin/slogin_oauth.php" afterPath="$PROJECT_DIR$/libraries/slogin/slogin_oauth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/manifests/libraries/slogin_oauth.xml" afterPath="$PROJECT_DIR$/administrator/manifests/libraries/slogin_oauth.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/tables/slogin_users.php" afterPath="$PROJECT_DIR$/components/com_slogin/tables/slogin_users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/assets/css/style.css" afterPath="$PROJECT_DIR$/components/com_demotivator/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/timecreated.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/timecreated.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/models/fields/timecreated.php" afterPath="$PROJECT_DIR$/components/com_demotivator/models/fields/timecreated.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/timeupdated.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/timeupdated.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/models/fields/timeupdated.php" afterPath="$PROJECT_DIR$/components/com_demotivator/models/fields/timeupdated.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/twitter/twitter.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/twitter/twitter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/twitter/twitter.xml" afterPath="$PROJECT_DIR$/plugins/slogin_auth/twitter/twitter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/twitter/assets/twitteroauth/twitteroauth.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/twitter/assets/twitteroauth/twitteroauth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/type.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/models/fields/type.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/ulogin.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/ulogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/ulogin.xml" afterPath="$PROJECT_DIR$/plugins/slogin_auth/ulogin/ulogin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/uninstall.demotivator.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/uninstall.demotivator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/sql/uninstall.mysql.utf8.sql" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/sql/uninstall.mysql.utf8.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/sql/uninstall.mysql.utf8.sql" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/sql/uninstall.mysql.utf8.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/uninstall.mysql.utf8.sql" afterPath="$PROJECT_DIR$/plugins/slogin_integration/profile/sql/uninstall.mysql.utf8.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/models/user.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/models/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/models/users.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/models/users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/tables/users.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/tables/users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/controllers/validate.php" afterPath="$PROJECT_DIR$/components/com_slogin/controllers/validate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/views/img/view.html.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/views/img/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_demotivator/views/imgs/view.html.php" afterPath="$PROJECT_DIR$/administrator/components/com_demotivator/views/imgs/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/settings/view.html.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/settings/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/view.html.php" afterPath="$PROJECT_DIR$/administrator/components/com_slogin/views/users/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/img/view.html.php" afterPath="$PROJECT_DIR$/components/com_demotivator/views/img/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/imgs/view.html.php" afterPath="$PROJECT_DIR$/components/com_demotivator/views/imgs/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_demotivator/views/newimg/view.html.php" afterPath="$PROJECT_DIR$/components/com_demotivator/views/newimg/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/comparison_user/view.html.php" afterPath="$PROJECT_DIR$/components/com_slogin/views/comparison_user/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/fusion/view.html.php" afterPath="$PROJECT_DIR$/components/com_slogin/views/fusion/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/linking_user/view.html.php" afterPath="$PROJECT_DIR$/components/com_slogin/views/linking_user/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/mail/view.html.php" afterPath="$PROJECT_DIR$/components/com_slogin/views/mail/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_slogin/views/redirect/view.html.php" afterPath="$PROJECT_DIR$/components/com_slogin/views/redirect/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/vkontakte.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/vkontakte.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/vkontakte.xml" afterPath="$PROJECT_DIR$/plugins/slogin_auth/vkontakte/vkontakte.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/yandex/yandex.php" afterPath="$PROJECT_DIR$/plugins/slogin_auth/yandex/yandex.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/slogin_auth/yandex/yandex.xml" afterPath="$PROJECT_DIR$/plugins/slogin_auth/yandex/yandex.xml" />
+    </list>
+    <ignored path="joomla.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="6700508c-43e4-4006-b4ff-34db0ed30443" time="1384260151749" ignored="false" />
+    <file path="$PROJECT_DIR$/../GeekHub/mod_helloworld_part5/helper.php" changelist="6700508c-43e4-4006-b4ff-34db0ed30443" time="1384262693039" ignored="false" />
+    <file path="$PROJECT_DIR$/../GeekHub/mod_title/helper.php" changelist="6700508c-43e4-4006-b4ff-34db0ed30443" time="1384262736242" ignored="false" />
+    <file path="$PROJECT_DIR$/../GeekHub/mod_title/mod_title.php" changelist="6700508c-43e4-4006-b4ff-34db0ed30443" time="1384263025156" ignored="false" />
+    <file path="/mod_title.php" changelist="6700508c-43e4-4006-b4ff-34db0ed30443" time="1384263025156" ignored="false" />
+    <file path="/helper.php" changelist="6700508c-43e4-4006-b4ff-34db0ed30443" time="1384263775463" ignored="false" />
+    <file path="/mod_helloworld.php" changelist="6700508c-43e4-4006-b4ff-34db0ed30443" time="1384263794839" ignored="false" />
+    <file path="/mod_helloworld.xml" changelist="6700508c-43e4-4006-b4ff-34db0ed30443" time="1384263965867" ignored="false" />
+    <file path="/README.txt" changelist="6700508c-43e4-4006-b4ff-34db0ed30443" time="1384267946706" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="joomla" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/modules/mod_helloworld/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/modules/mod_title/helper.php" />
+        <option value="$PROJECT_DIR$/modules/mod_helloworld/helper.php" />
+        <option value="$PROJECT_DIR$/modules/mod_helloworld/mod_helloworld.xml" />
+        <option value="$PROJECT_DIR$/modules/mod_title/mod_title.php" />
+        <option value="$PROJECT_DIR$/modules/mod_helloworld/mod_helloworld.php" />
+        <option value="$PROJECT_DIR$/mod_title/mod_title.xml" />
+        <option value="$PROJECT_DIR$/README.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1217" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6700508c-43e4-4006-b4ff-34db0ed30443" name="Default" comment="" />
+      <created>1384260151646</created>
+      <updated>1384260151646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-4" width="1217" height="805" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25150216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
