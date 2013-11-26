@@ -21,6 +21,8 @@
 					<field name="text" type="text"
 						label="MOD_TITLE_TEXT_FIELD_LABEL"
 						description="MOD_TITLE_TEXT_FIELD_DESC" />
+                    <field name="mycategory" type="category" extension="com_content" label="Select a category" description="" />
+                    <field name="nambArt" type="text" default="5" label="Enter number of articles" description=""  maxlength="3" filter="integer" ></field>
 				</fieldset>
 				<!-- Дополнительные параметры для модуля -->
 				<fieldset name="advanced">

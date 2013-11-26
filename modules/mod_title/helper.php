@@ -4,13 +4,14 @@ defined('_JEXEC') or die();
 
 class modTitleHelper
 {
-	public static function getList(&$params)
+	public static function getList($category,$number)
 	{
 		$db = JFactory::getDbo();
 		$query = $db->getQuery(true);
 		$query->select('title');
 		$query->from('#__content');
-		$db->setQuery($query);
+        $query->where('catid='.$category);
+		$db->setQuery($query,0,$number);
 		
 		$list = $db->loadObjectList();
 
