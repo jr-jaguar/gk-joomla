@@ -1,0 +1,40 @@
+.tester {
+    background: url("../images/stud.jpg") 0 0 no-repeat;
+}
+.left {
+    margin: 10px;
+    float: none;
+    width: 100px;
+    word-spacing: normal;
+    vertical-align: baseline;
+}
+.par {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: left;
+    background-image: url(../images/cnel2.jpg);
+    background-repeat: repeat-x;
+}
+.right {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 10px;
+    float: none;
+    width: 100px;
+    word-spacing: normal;
+}
+.par1 {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 200px;
+    background-image: url(../images/cnel2.jpg);
+    background-repeat: repeat-x;
+}
+div.item_fields.tester {
+    background: url('../images/stud.jpg') 0 0 no-repeat;
+    background-image: url(../images/stud.jpg);
+    /*width: 1200px;*/
+    height: 1248px;
+}

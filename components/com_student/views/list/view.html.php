@@ -29,7 +29,7 @@ class StudentViewList extends JView {
         
 		$app	= JFactory::getApplication();
         $user		= JFactory::getUser();
-        
+        JFactory::getDocument()->addStyleSheet('/joomla/components/com_student/assets/css/styles.css');
         $this->state = $this->get('State');
         $this->item = $this->get('Data');
 

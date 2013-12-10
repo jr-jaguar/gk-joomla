@@ -9,6 +9,7 @@
 // no direct access
 defined('_JEXEC') or die;
 
+
 //Load admin language file
 $lang = JFactory::getLanguage();
 $lang->load('com_student', JPATH_ADMINISTRATOR);
@@ -18,45 +19,45 @@ if (!$canEdit && JFactory::getUser()->authorise('core.edit.own', 'com_student' .
 }
 ?>
 <?php if ($this->item) : ?>
+    <div class="item_fields tester">
+        <?php
+        $uploadPath = 'administrator' . DIRECTORY_SEPARATOR . 'components' . DIRECTORY_SEPARATOR . 'com_student' . DIRECTORY_SEPARATOR . 'Foto' . DIRECTORY_SEPARATOR . $this->item->foto;
+        ?>
+        <img align="right" height="256" width="300" src="<?php echo JRoute::_(JUri::base() . $uploadPath, false); ?>"</img>
 
-    <div class="item_fields">
+        <div class="body tester">
+            <div>
+                <p>ФИО</p>
+                <p class="par1"><?php echo $this->item->fio; ?></p>
+            </div>
+            <div class="left" >
+                <p>Дата рождения:</p>
+                <p class="par"><?php echo $this->item->birthday; ?></p>
+            </div>
+            <div class="left">
+                <p>Пол:</p>
+                <p class="par"><?php echo $this->item->male; ?></p>
+            </div>
+            <div class="left" >
+                <p>Група:</p>
+                <p class="par"><?php echo $this->item->grup; ?></p>
+            </div>
+            <div class="left" >
+                <p>Номер зачетки:</p>
+                <p class="par"><?php echo $this->item->nom_zach; ?></p>
+            </div>
+            <div class="left" >
+                <p>Средний бал</p>
+                <p class="par"><?php echo $this->item->bal; ?></p>
 
-        <ul class="fields_list">
+            </div>
+            <div class="left">
+                <p>О себе</p>
+                <p class="par"><?php echo $this->item->student_info; ?></p>
+            </div>
+        </div>
 
-            			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_ID'); ?>:
-			<?php echo $this->item->id; ?></li>
-			<!--<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_ORDERING'); ?>:
-			<?php echo $this->item->ordering; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_STATE'); ?>:
-			<?php echo $this->item->state; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_CHECKED_OUT'); ?>:
-			<?php echo $this->item->checked_out; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_CHECKED_OUT_TIME'); ?>:
-			<?php echo $this->item->checked_out_time; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_CREATED_BY'); ?>:
-			<?php echo $this->item->created_by; ?></li>-->
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_FIO'); ?>:
-			<?php echo $this->item->fio; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_STUDENT_INFO'); ?>:
-			<?php echo $this->item->student_info; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_BIRTHDAY'); ?>:
-			<?php echo $this->item->birthday; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_MALE'); ?>:
-			<?php echo $this->item->male; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_GRUP'); ?>:
-			<?php echo $this->item->grup; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_BAL'); ?>:
-			<?php echo $this->item->bal; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_NOM_ZACH'); ?>:
-			<?php echo $this->item->nom_zach; ?></li>
-			<li><?php echo JText::_('COM_STUDENT_FORM_LBL_LIST_FOTO'); ?>:
 
-			<?php 
-				$uploadPath = 'administrator' . DIRECTORY_SEPARATOR . 'components' . DIRECTORY_SEPARATOR . 'com_student' . DIRECTORY_SEPARATOR . 'Foto' . DIRECTORY_SEPARATOR . $this->item->foto;
-			?>
-			<a href="<?php echo JRoute::_(JUri::base() . $uploadPath, false); ?>" target="_blank"><?php echo $this->item->foto; ?></a></li>
-
-        </ul>
 
     </div>
     <?php if($canEdit): ?>
